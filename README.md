@@ -1,80 +1,57 @@
-# 👋 Hi, I'm Varsha D
+# 📚 DSA in Java
 
-### 💻 Computer Science & Engineering Student | Java | DSA | Web Development
+A collection of **Data Structures and Algorithms implemented in Java**, created for learning, practice, and interview preparation.
 
-🎓 3rd Year B.E. Computer Science & Engineering student  
-🚀 Passionate about coding, problem-solving, and building projects  
-🧠 Currently strengthening my skills in Data Structures & Algorithms  
-☕ Learning, coding, debugging, and improving every day!
+## 🚀 Topics Covered
 
----
+- 📌 Arrays
+- 🔗 Linked Lists
+- 📚 Stacks
+- 🚶 Queues
+- 🌳 Trees
+- 🔍 Binary Search
+- 🔄 Recursion
+- 🧩 Backtracking
+- 🔀 Sorting Algorithms
+- 🗺️ Hashing
+- 📊 Graphs
+- ⚡ Dynamic Programming
 
-## 🛠️ Tech Stack
+## 💻 Language
 
-### Languages
-- ☕ Java
-- 🐍 Python
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
+Java ☕
 
-### Core Skills
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
-- Database Management
-- Computer Networks
+## 🎯 Purpose
 
-### Tools
-- Git & GitHub
-- VS Code
-- IntelliJ IDEA
-- Cisco Packet Tracer
+This repository contains my practice and implementations of important **DSA concepts and problem-solving techniques**.
 
----
+## 📂 Structure
 
-## 📚 Currently Learning
+DSA-in-JAVA/
+│
+├── Arrays/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Searching/
+├── Sorting/
+├── Recursion/
+├── Backtracking/
+├── Hashing/
+├── Graphs/
+└── DynamicProgramming/
 
-- 🔹 Advanced Data Structures & Algorithms
-- 🔹 Java Programming
-- 🔹 Web Development
-- 🔹 Git & GitHub
-- 🔹 Problem Solving
+## 🧠 What I'm Practicing
 
----
+- 💡 Problem Solving
+- ⏱️ Time & Space Complexity
+- ⚡ Algorithm Optimization
+- 🏆 Competitive Programming
+- 💼 Coding Interview Preparation
 
-## 📌 Featured Projects
+## ⭐ Goal
 
-🔹 **DSA in Java**  
-A collection of Data Structures and Algorithms implemented in Java.
+> Learn DSA → Practice Problems → Improve Logic → Build Strong Problem-Solving Skills
 
-🔹 **Network Security Project**  
-A Cisco Packet Tracer project focused on network configuration and security.
-
----
-
-## 🎯 Goals
-
-- 💡 Become a strong problem solver
-- 🚀 Build real-world projects
-- 📈 Improve my coding skills consistently
-- 💼 Prepare for software development opportunities
-
----
-
-## 📊 GitHub Stats
-
-![Varsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-- 💻 GitHub: https://github.com/YOUR_USERNAME
-- 📧 Email: YOUR_EMAIL
-
----
-
-### ✨ "Code. Learn. Build. Repeat." ✨
+### 🚀 Keep Coding. Keep Learning. Keep Improving.
