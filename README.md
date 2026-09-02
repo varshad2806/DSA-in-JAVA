@@ -55,3 +55,15 @@ DSA-in-JAVA/
 > Learn DSA → Practice Problems → Improve Logic → Build Strong Problem-Solving Skills
 
 ### 🚀 Keep Coding. Keep Learning. Keep Improving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
