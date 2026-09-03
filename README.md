@@ -63,6 +63,7 @@ DSA-in-JAVA/
 | ------- |
 | [0001-two-sum](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,9 @@ DSA-in-JAVA/
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
