@@ -68,6 +68,7 @@ DSA-in-JAVA/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +78,12 @@ DSA-in-JAVA/
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varshad2806/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
